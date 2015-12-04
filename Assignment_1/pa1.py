@@ -1,7 +1,7 @@
 #Author: Remel Kabir
 #Math 308
 
-import math
+import cmath
 
 
 #Problem No.1
