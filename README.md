@@ -9,7 +9,7 @@ All the problems are in the form of a function which can be run through terminal
 ```
 $python
 ```
-Which will open the python shell. Once in the shell, import the function then pass in values(if necessary) to get the correct output. For example: From assginment_1 to check if a number is_prime(x) which takes a parameter and return **True** or **False** use:
+Which will open the python shell. Once in the shell, import the function then pass in values(if necessary) to get the correct output. For example: From assginment_1 to check if a number is_prime(x) which takes a parameter and returns **True** or **False** use:
 
 ```python
 >>> from pa1 import is_prime
